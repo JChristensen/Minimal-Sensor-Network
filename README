@@ -1,0 +1,1 @@
+This is a simple two-node sensor network that consists of a remote sensor unit which transmits a single reading from a photocell once per minute to a base unit which connects to the internet and forwards the data on to Pachube.
